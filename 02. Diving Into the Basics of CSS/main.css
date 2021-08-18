@@ -1,0 +1,17 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+#product-overview {
+    background-color: crimson;
+}
+
+.section-title {
+    color: #6bde08;
+    font-family: inherit;
+}
+
+#product-overview h1 {
+    color: aqua;
+    font-size: 20px;
+}
